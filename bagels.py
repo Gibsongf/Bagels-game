@@ -72,4 +72,3 @@ class Guess_Number():
         print(', '.join(hint),'\n')
 
 
-Guess_Number('maça')
